@@ -1,0 +1,19 @@
+# Generated results and model downloads
+outputs/*
+!outputs/.gitkeep
+fill_steps/
+render_360/
+sds_steps/
+wandb/
+.cache/
+
+# Environments and local configuration
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store

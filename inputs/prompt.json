@@ -1,0 +1,89 @@
+{
+    "newton": ["a simple portrait of Isaac Newton on a white background", "a simple portrait of Albert Einstein on a white background", "a simple portrait of Alan Turing on a white background"],
+    "cat": ["a simple drawing of a cute cat on a white background", "a portrait of a cute dog on a white background", "a sketch of a cute bird on a white background"],
+    "unicorn": ["a simple sketch of a unicorn on a white background", "a simple drawing of a large dragon on a white background", "a simple sketch of a phoenix on a white background"],
+    "pikachu": ["a simple sketch of a pikachu a white background", "a simple sketch of a charmander a white background", "a simple sketch of a bulbasaur on a white background"],
+    "london":  ["The black and white sketching of  London Tower Bridge a white background", "a simple sketch of Sydney Opera House a white background", "black and white drawing of Athens Parthenon on a white background"],
+    "spiderman":  ["The black and white sketch of  Spider Man a white background", "a black and white sketch of Iron Man a white background", "black and white sketch of Captain America on a white background"],
+    "tree": [
+        "a simple black sketch of a large ancient oak tree on a white background",
+        "a minimalist line drawing of a rose flower on a white background",
+        "a simple drawing of a mountain on a white background"
+    ],
+    "instruments": [
+        "a simple black line drawing of a violin on a white background",
+        "a minimalist sketch of a grand piano on a white background",
+        "a simple drawing of a saxophone on a white background"
+    ],
+    "fruits": [
+	"a simple black sketch of a pineapple on a white background",
+        "a simple line drawing of a strawberry on a white background",
+        "a simple drawing of a bunch of banana on a white background"
+    ],
+    "vehicles": [
+        "a simple outline sketch of a vintage beetle car on a white background", 
+        "a minimalist side view drawing of a vespa scooter on a white background", 
+        "a line art sketch of a steam train locomotive on a white background"
+    ],
+    "buildings": [
+        "a simple sketch of a cozy house on a white background",
+        "a minimalist drawing of a windmill on a white background",
+        "a simple line art of a medieval castle on a white background"
+    ],
+    "food": [
+        "a simple sketch of a delicious ice cream cone on a white background",
+        "a minimalist line drawing of an apple on a white background",
+        "a simple drawing of a hamburger on a white background"
+    ],
+    "sea_life": [
+        "a simple black sketch of an octopus on a white background",
+        "a minimalist line drawing of a sea turtle on a white background",
+        "a simple drawing of a shark on a white background"
+    ],
+    "land_animals": [
+        "a simple black sketch of a camel on a white background",
+        "a minimalist line drawing of a kangaroo on a white background",
+        "a simple drawing of an elephant on a white background"
+    ],
+    "furniture": [
+        "a simple sketch of a wooden chair on a white background",
+        "a minimalist drawing of a table on a white background",
+        "a simple line art of a comfortable couch on a white background"
+    ],
+    "ballerina": [
+        "a graceful sketch of a ballerina dancing on a white background",
+        "a simple line art of a figure ice skater on a white background",
+        "a minimalist drawing of a gymnast jumping on a white background"
+    ],
+    "hands": [
+        "a simple sketch of a hand holding a rose on a white background",
+        "a line drawing of two hands shaking on a white background",
+        "a minimalist sketch of a peace sign hand gesture on a white background"
+    ],
+    "butterfly": [
+        "a detailed black and white sketch of a monarch butterfly on a white background",
+        "a simple line drawing of a dragonfly on a white background",
+        "a minimalist sketch of a honey bee on a white background"
+    ],
+    "transportation": [
+        "a simple black sketch of a helicopter on a white background",
+        "a minimalist line drawing of a sailboat on a white background",
+        "a simple drawing of a hot air balloon on a white background"
+    ],
+    "electronics": [
+        "a retro sketch of a camera on a white background",
+        "a simple line drawing of a pair of headphones on a white background",
+        "a minimalist drawing of a vintage radio on a white background"
+    ],
+    "bad": [
+        "a simple black sketch of an apple on a white background",
+        "a simple black sketch of a bunch of grapes on a white background",
+        "a simple black sketch of a flower on a white background"
+    ],
+
+    "tools": [
+        "a simple black sketch of a hammer on a white background",
+        "a minimalist line drawing of a wrench on a white background",
+        "a simple drawing of an old key on a white background"
+    ]
+}

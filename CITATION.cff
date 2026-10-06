@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this paper."
+title: "Optimizing 4D Wires for Sparse 3D Abstraction"
+authors:
+  - family-names: "Wu"
+    given-names: "Dong-Yi"
+  - family-names: "Lee"
+    given-names: "Tong-Yee"
+url: "https://arxiv.org/abs/2605.11977"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Wu"
+      given-names: "Dong-Yi"
+    - family-names: "Lee"
+      given-names: "Tong-Yee"
+  title: "Optimizing 4D Wires for Sparse 3D Abstraction"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.11977"

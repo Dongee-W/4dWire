@@ -1,0 +1,12 @@
+{
+  "prompt_set": "vehicles",
+  "prompts": [
+    "a simple outline sketch of a vintage beetle car on a white background",
+    "a minimalist side view drawing of a vespa scooter on a white background",
+    "a line art sketch of a steam train locomotive on a white background"
+  ],
+  "steps": 1000,
+  "schedule_steps": 1801,
+  "seed": 365,
+  "elapsed_seconds": 893.3
+}

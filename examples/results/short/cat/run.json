@@ -1,0 +1,12 @@
+{
+  "prompt_set": "cat",
+  "prompts": [
+    "a simple drawing of a cute cat on a white background",
+    "a portrait of a cute dog on a white background",
+    "a sketch of a cute bird on a white background"
+  ],
+  "steps": 50,
+  "seed": 365,
+  "elapsed_seconds": 44.0,
+  "schedule_steps": 50
+}
